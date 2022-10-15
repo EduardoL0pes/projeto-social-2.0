@@ -46,3 +46,9 @@
     box-shadow: 1px 1px 20px rgb(130, 223, 223);
     transition: .5s;
 }
+
+.icone:hover {
+    transform: rotate(360deg);
+    padding: 5px;
+    transition: .8s;
+}
