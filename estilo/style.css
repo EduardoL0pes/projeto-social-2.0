@@ -6,7 +6,7 @@
 }
 
 html, body {
-    width: 100vw;
+    width: 98vw;
     height: 100vh;
 }
 
@@ -17,7 +17,7 @@ body {
 
 main {
     position: relative;
-    height: 100vh;
+    height: 98vh;
 }
 
 section#telefone {
@@ -28,7 +28,7 @@ section#telefone {
 
     background: url('../imagens/frame-iphone.png') no-repeat;
     width: 365px;
-    height: 627px;
+    height: 615px;
 }
 
 section#rede-social {
