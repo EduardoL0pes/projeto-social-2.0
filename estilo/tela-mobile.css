@@ -1,0 +1,36 @@
+@charset "UTF-8";
+
+* {
+    margin: 0;
+    padding: 0;
+    font-family: 'Courier New', Courier, monospace, Times, serif;
+    font-weight: bold;
+}
+
+::-webkit-scrollbar {
+    width: 0;
+    height: 0;
+}
+
+img {
+    width: 100vw;
+}
+
+a {
+    display: block;
+    padding: 15px;
+    margin-top: -5px;
+    background-color: rgba(255, 0, 0, 0.74);
+    color: white;
+    text-decoration: none;
+    text-align: center;
+}
+
+a:hover {
+    color: lightgray;
+    font-size: 1.1em;
+}
+
+a:active {
+    background-color: rgba(255, 0, 0, 0.315);
+}
