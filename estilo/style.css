@@ -27,7 +27,7 @@ section#telefone {
     transform: translate(-50%, -50%);
 
     background: url('../imagens/frame-iphone.png') no-repeat;
-    width: 311px;
+    width: 365px;
     height: 627px;
 }
 
@@ -37,7 +37,7 @@ section#rede-social {
 
 section#rede-social img {
     width: 50px;
-    margin: 10px 15px 10px;
+    margin: 10px;
     border-radius: 50%;  
     box-sizing: border-box;
 }
